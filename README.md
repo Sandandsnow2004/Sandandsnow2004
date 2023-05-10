@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xuejing, or Snow
 - 💞️ I love my cat
 - ✨ I’m learning skateboarding
-- 👀 I’m interested in using large data(genomics or spatial) to protect species/biodiversity
+- 👀 I’m interested in using large data(genomics or spatio-temporal) to study evolution and protect species/biodiversity
 - 🌱 I’m currently working on the genomic basis of phenotypic loss and repeatability of evolution
 - 📫 How to reach me Xuejing.Hu@outlook.com
 
